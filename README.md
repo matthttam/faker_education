@@ -1,7 +1,8 @@
 
 # Education provider for Faker
-[![Python application](https://github.com/matthttam8411/faker_education/actions/workflows/python-app.yml/badge.svg)](https://github.com/matthttam8411/faker_education/actions/workflows/python-app.yml)
-
+[![Tests](https://github.com/matthttam8411/faker_education/actions/workflows/python-app.yml/badge.svg)](https://github.com/matthttam8411/faker_education/actions/workflows/python-app.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/180ddde29f8aa4e8c869/maintainability)](https://codeclimate.com/github/matthttam8411/faker_education/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/180ddde29f8aa4e8c869/test_coverage)](https://codeclimate.com/github/matthttam8411/faker_education/test_coverage)
 ## Acknowlegements
 
 
