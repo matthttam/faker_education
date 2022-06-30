@@ -1,5 +1,5 @@
 from faker.providers import BaseProvider
-from random import choice, sample, randint
+from random import choice
 from .constants import school_list
 
 
