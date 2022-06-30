@@ -1,14 +1,18 @@
 [build-system]
-requires = ["flit_core >=2,<4"]
+requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
-[tool.flit.metadata]
-module = "faker_education"
-author = "Matt Henry"
-author-email = "matthttam8411@gmail.com"
-home-page = "https://github.com/matthttam8411/faker_education.git"
-classifiers = [ "License :: OSI Approved :: MIT License",]
+[project]
+name = "faker_education"
+authors = [{name = "Matt Henry", email = "matthttam8411@gmail.com"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["version", "description"]
 description-file = "README.md"
+
+[project.urls]
+Home = "https://github.com/matthttam8411/faker_education.git"
 
 [tool.flit.metadata.requires-extra]
 test = ["pytest", "pytest-cov", "tox"]
