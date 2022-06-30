@@ -1,6 +1,6 @@
 
 # Education provider for Faker
-
+[![Python application](https://github.com/matthttam8411/faker_education/actions/workflows/python-app.yml/badge.svg)](https://github.com/matthttam8411/faker_education/actions/workflows/python-app.yml)
 
 ## Acknowlegements
 
