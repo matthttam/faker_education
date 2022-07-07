@@ -65,8 +65,8 @@ fake = Faker()
 ### Districts
 
 ``` python
->>> fake.district()
-'Sichuan Airlines'
+>>> fake.school_district()
+'Dighton-Rehoboth'
 ```
 
 ### Level
