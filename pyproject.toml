@@ -14,5 +14,5 @@ description-file = "README.md"
 [project.urls]
 Home = "https://github.com/matthttam8411/faker_education.git"
 
-[tool.flit.metadata.requires-extra]
+[project.requires-extra]
 test = ["pytest", "pytest-cov", "tox"]
